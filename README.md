@@ -4,7 +4,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-Q11JkMfwph](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-Q11JkMfwph)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-FqTbbPdm-V](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-FqTbbPdm-V)
 - Live Site URL: [https://z-khutsishvili.github.io/intro-component-with-signup-form/](https://z-khutsishvili.github.io/intro-component-with-signup-form/)
 
 ## Built with
